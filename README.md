@@ -14,18 +14,11 @@ A beautiful, minimal analog-style clock built with pure HTML, CSS, and JavaScrip
 
 ---
 
-## 🎨 Preview
-
-![Clock Preview](preview.png)
-
-> Three glowing rings on a dark background — pink for hours, yellow for minutes, green for seconds.
-
----
 
 ## 🗂️ Project Structure
 
 ```
-circular-clock/
+Digital_Clock/
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling and animations
 ├── script.js       # Clock logic and time updates
@@ -34,23 +27,6 @@ circular-clock/
 
 ---
 
-## 🚀 Getting Started
-
-No installation or build steps needed.
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/circular-clock.git
-   ```
-
-2. **Open in browser**
-   ```bash
-   cd circular-clock
-   open index.html
-   ```
-   Or just double-click `index.html` to open it in your browser.
-
----
 
 ## 🛠️ How It Works
 
@@ -80,6 +56,3 @@ No installation or build steps needed.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
